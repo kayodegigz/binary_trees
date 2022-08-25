@@ -21,7 +21,7 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 	r_node = malloc(sizeof(binary_tree_t));
 
 	if (r_node == NULL)
-		return NULL;
+		return (NULL);
 
 	r_node->left = NULL;
 	r_node->n = value;
