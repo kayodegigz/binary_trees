@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tre_inorder - traverses the binary tree in in-order config
+ * binary_tree_inorder - traverses the binary tree in in-order config
  *
  * @tree: the root of the tree
  *
